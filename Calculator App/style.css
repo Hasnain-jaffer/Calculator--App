@@ -76,6 +76,6 @@ input::placeholder{
 }
 @media screen and (max-width: 370px) {
     .calculator{
-        width: 100%;
+        width: 95%;
     }
 }
