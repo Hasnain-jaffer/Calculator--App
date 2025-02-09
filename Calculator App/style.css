@@ -49,7 +49,7 @@ input::placeholder{
     color:white;
     background-color: #3de43d;
 }
-@media screen and (min-width: 400px) {
+@media screen and (max-width: 450px) {
     .calculator{
         width: 80%;
     }
